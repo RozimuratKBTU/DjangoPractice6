@@ -2,7 +2,7 @@
 
 def reverse_string(s):
     return s[::-1]
-
+#dsvsdvs
 def is_palindrome(s):
     s2 = ''.join(ch.lower() for ch in s if ch.isalnum())
     return s2 == s2[::-1]
