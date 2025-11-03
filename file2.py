@@ -1,5 +1,5 @@
 """file2.py — коллекция функций для работы со строками"""
-
+#"""kkfkkfkkfk"""
 def reverse_string(s):
     return s[::-1]
 
